@@ -1,0 +1,19 @@
+{
+  "name": "testnodejs",
+  "version": "0.1.0",
+  "description": "This is a test module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AvishkaBalasuriya/testnodejs.git"
+  },
+  "author": "Avishka Balasuriya <avishkabalasuriya980330@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AvishkaBalasuriya/testnodejs/issues"
+  },
+  "homepage": "https://github.com/AvishkaBalasuriya/testnodejs#readme"
+}
